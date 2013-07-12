@@ -6,7 +6,7 @@
 Part List
 ---------------
 
-| Quantity | Part Naumber  | Where to Buy  | Price |
+| Quantity | Part Number   | Where to Buy  | Price |
 | -------- | ------------- |:-------------:| -----:|
-| 512     | col 3 is      | Radioshack    | $.99  |
+| 512      | col 3 is      | Radioshack    | $2.99 |
 
